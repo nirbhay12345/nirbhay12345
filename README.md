@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 - 😄 I am Nirbhay
 - 🔭 I’m currently working on improving my communication skills
