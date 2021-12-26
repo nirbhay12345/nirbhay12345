@@ -22,7 +22,7 @@
 [![mongodb](https://img.shields.io/badge/mongodb-gray?style=for-the-badge&logo=mongodb&logoColor=green)](#)
 [![python](https://img.shields.io/badge/expressjs-red?style=for-the-badge&logo=express&logoColor=white)](#)
 [![python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=blue)](#)
-
+[![imba](https://img.shields.io/badge/imba-grey?style=for-the-badge&logo=scrimba&logoColor=yellow)](#)
   
 
 </div> 
