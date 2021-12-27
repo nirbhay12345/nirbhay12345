@@ -44,8 +44,8 @@
   <summary>Github Stats</summary>
   <p></p>
   
-  <img width=48% src="https://github-readme-stats.vercel.app/api?username=nirbhay12345&count_private=true&theme=radical"/> &nbsp;&nbsp;
-  <img width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhay12345&layout=compact&theme=radical&hide=verilog,php,ejs,hack"/> 
+  <img width=48% src="https://github-readme-stats.vercel.app/api?username=nirbhay12345&count_private=true&theme=cobalt"/> &nbsp;&nbsp;
+  <img width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhay12345&layout=compact&theme=cobalt&hide=verilog,php,ejs,hack"/> 
   
 </details>  
 
