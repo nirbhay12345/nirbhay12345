@@ -1,5 +1,6 @@
 <div align="center">
   
+<img width=97% src="https://github.com/nirbhay12345/nirbhay12345/blob/main/assets/images/banner.png"/>
   
 # Hello 👋 I am Nirbhay
   
