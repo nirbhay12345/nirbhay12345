@@ -48,6 +48,7 @@
   <img width=48% src="https://github-readme-stats.vercel.app/api?username=nirbhay12345&count_private=true&theme=cobalt"/> &nbsp;&nbsp;
   <img width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhay12345&layout=compact&theme=cobalt&hide=verilog,php,ejs,hack"/> 
   
+  <img width=97% src="https://activity-graph.herokuapp.com/graph?username=nirbhay12345&theme=rogue&hide_border=true"/>
 
 </details>  
 
