@@ -33,7 +33,7 @@
   <summary>More about me</summary>
   
 - 😄 I am Nirbhay
-- 🔭 I’m currently working on improving my communication skills
+- 🔭 I’m currently working on code and collaborating
 - 🌱 I’m learning how to communicate with other people and bring value to the community
 - 👯 I’m looking to collaborate on projects that are open source
 - 💬 Ask me about webdevelopment and sports -> Football or Soccer 😂 whatever you prefer
