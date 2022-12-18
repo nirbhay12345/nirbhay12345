@@ -4,7 +4,7 @@
   
 # Hello 👋 I am Nirbhay
   
-  Hi there, I am Nirbhay a Engineering Undergrade from India. I started my tech journey in my 1st year of Engineering. Since then, I am learning new technologies and growing my network. I love to chat, collaborate and contribute.
+  Hi there, I am Nirbhay a Engineer from India. I started my tech journey in my 1st year of Engineering. Since then, I am learning new technologies and growing my network. I love to chat, collaborate and contribute.
   
 
 ## Contact me
