@@ -1,6 +1,6 @@
 <div align="center">
   
-<img width=97% src="assets/images/banner.png"/>
+<img width=97% src="./assets/images/banner.png"/>
   
 # Hello 👋 I am Nirbhay
 
