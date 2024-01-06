@@ -2,11 +2,11 @@
 
 # Hello 👋 I am Nirbhay
 
-A passionate Full-Stack Developer with a keen interest in crafting efficient solutions using C++, JavaScript, and Python. I'm enthusiastic about exploring the vast world of Data Science and its applications.
+A passionate Data Engineer with a keen interest in crafting efficient solutions using AWS and Python. I'm enthusiastic about exploring the vast world of Data Science and its applications.
 
 🚀 Skills & Expertise:
 
-Proficient in C++, JavaScript, and Python
+Proficient in Python
 Experienced in MERN Stack development
 AWS Cloud Services knowledge
 
@@ -19,14 +19,16 @@ Exploring advanced techniques in Data Visualization, Cloud Optimization, Machine
 
 I'm open to collaborations on interesting projects
 Seeking opportunities to contribute to open-source initiatives
+
 📚 Fun Fact:
 
 When not coding, I'm immersed in a good book. Recommendations welcome!
 
 📫 Connect with Me:
 
-[![JavaScript](https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nirbhay00704167)
+[![Twitter](https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nirbhay00704167)
 [![Mail](https://img.shields.io/badge/mail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirc34@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirbhay-chaplot)
 
   
 ## Technology Stack
