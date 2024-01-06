@@ -32,16 +32,16 @@ When not coding, I'm immersed in a good book. Recommendations welcome!
 ## Technology Stack
    
 
-
+[![AWS](https://img.shields.io/badge/AWS-grey?style=for-the-badge&logo=amazon&logoColor=darkyellow)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)](#)
 [![nodejs](https://img.shields.io/badge/nodejs-darkgreen?style=for-the-badge&logo=node.js&logoColor=black)](#)
 [![react](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=black)](#)
 [![mongodb](https://img.shields.io/badge/mongodb-gray?style=for-the-badge&logo=mongodb&logoColor=green)](#)
-[![python](https://img.shields.io/badge/expressjs-red?style=for-the-badge&logo=express&logoColor=white)](#)
+[![express](https://img.shields.io/badge/expressjs-red?style=for-the-badge&logo=express&logoColor=white)](#)
 [![python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=blue)](#)
 [![imba](https://img.shields.io/badge/imba-grey?style=for-the-badge&logo=scrimba&logoColor=yellow)](#)
-[![embedded-c](https://img.shields.io/badge/embedded-red?style=for-the-badge&logo=C&logoColor=blue)](#)
-[![AWS](https://img.shields.io/badge/aws-grey?style=for-the-badge&logo=amazon&logoColor=red)](#)
+[![YML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=red)](#)
+
 
 </div> 
   
