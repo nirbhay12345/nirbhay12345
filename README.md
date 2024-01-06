@@ -1,7 +1,5 @@
 <div align="center">
-  
-<img width=97% src="./assets/images/banner.png"/>
-  
+
 # Hello 👋 I am Nirbhay
 
 A passionate Full-Stack Developer with a keen interest in crafting efficient solutions using C++, JavaScript, and Python. I'm enthusiastic about exploring the vast world of Data Science and its applications.
