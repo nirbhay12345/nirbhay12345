@@ -6,13 +6,13 @@ A passionate ML Engineer with a keen interest in crafting efficient solutions us
 
 🚀 Skills & Expertise:
 
-Proficient in Python
-Experienced in MERN Stack development
+Proficient in Python,
+Experienced in MERN Stack development,
 AWS Cloud Services knowledge
 
 🌱 Current Focus:
 
-Working on Machine Learning Projects
+Working on Machine Learning Projects,
 Exploring advanced techniques in Data Visualization, Cloud Optimization, Machine Learning Hyperparameters
 
 🤝 Let's Collaborate:
@@ -22,7 +22,7 @@ Seeking opportunities to contribute to open-source initiatives
 
 📚 Fun Fact:
 
-When not coding, I'm immersed in a good book. Recommendations welcome!
+When not coding, I'm immersed in a good book. Recommendations welcomed!
 
 📫 Connect with Me:
 
