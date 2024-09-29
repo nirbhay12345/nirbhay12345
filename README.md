@@ -2,7 +2,7 @@
 
 # Hello 👋 I am Nirbhay
 
-A passionate Data Engineer with a keen interest in crafting efficient solutions using AWS and Python. I'm enthusiastic about exploring the vast world of Data Science and its applications.
+A passionate ML Engineer with a keen interest in crafting efficient solutions using AWS and Python. I'm enthusiastic about exploring the vast world of Data Science and its applications.
 
 🚀 Skills & Expertise:
 
