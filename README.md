@@ -55,7 +55,7 @@ When not coding, I'm immersed in a good book. Recommendations welcomed!
 - 🌱 I’m learning how to communicate with other people and bring value to the community
 - 👯 I’m looking to collaborate on projects that are open source
 - 💬 Ask me about data science and sports -> Football or Soccer 😂 whatever you prefer
-- ⚡ Fun fact: I like sports 😎 and sometimes I do code....
+- ⚡ Fun fact: I am a wizard 🧙‍♂️ when it comes to reading people....
 
 </details>  
 
