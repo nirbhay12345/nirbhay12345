@@ -46,10 +46,7 @@ When not coding, I'm immersed in a good book. Recommendations welcomed!
 
 
 </div> 
-  
-  
-<details>
-  <summary>More about me</summary>
+<div>More about me</div>
 
 - 🔭 I’m currently working on code and collaborating
 - 🌱 I’m learning how to communicate with other people and bring value to the community
@@ -57,14 +54,12 @@ When not coding, I'm immersed in a good book. Recommendations welcomed!
 - 💬 Ask me about data science and sports -> Football or Soccer 😂 whatever you prefer
 - ⚡ Fun fact: I am a wizard 🧙‍♂️ when it comes to reading people....
 
-</details>  
-
 <details>
   <summary>Github Stats</summary>
   <p></p>
   
-  <img width=48% src="https://github-readme-stats.vercel.app/api?username=nirbhay12345&count_private=true&theme=cobalt"/> &nbsp;&nbsp;
-  <img width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhay12345&layout=compact&theme=cobalt&hide=verilog,php,ejs,hack"/> 
+  <img width=47% height=30% src="https://github-readme-stats.vercel.app/api?username=nirbhay12345&count_private=true&theme=cobalt"/> &nbsp;&nbsp;
+  <img width=47% height=75% src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhay12345&layout=compact&theme=cobalt&hide=verilog,php,ejs,hack,jupyter%20notebook,css,html"/> 
 
 </details>  
 
